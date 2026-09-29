@@ -1,4 +1,4 @@
-# Curso: Computacion Cientifica 2
+# Curso: Computacion Cientifica 1
 ## Universidad Sergio Arboleda
 
 ### Corte 2
